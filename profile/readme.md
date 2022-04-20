@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://github.com/FrimeBot/.github/blob/main/profile/frime_banner.png" height="200px" title="Frime Banner">
+    <img src="https://github.com/FrimeBot/.github/blob/main/profile/images/frime_banner.png" height="200px" title="Frime Banner">
   </p>
   <p>
     <a href="https://discord.gg/tDMR9pP3a6"><img src="https://img.shields.io/discord/457858774099689479?color=5865F2&logo=discord&logoColor=white" alt="server"/></a>
