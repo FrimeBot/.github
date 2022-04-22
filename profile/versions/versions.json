@@ -1,7 +1,7 @@
 {
   "latest": {
     "version": "9.0.1",
-    "timestamp": 1649882909,
+    "timestamp": 1650646956,
     "comment": "Считаю версии! Я умею считать!!!",
     "links": [
       "net"
@@ -10,7 +10,7 @@
 
   "9.0.0": {
     "version": "9.0.0",
-    "timestamp": 1636213720,
+    "timestamp": 1650646956,
     "comment": "text",
     "links": [
       "net"
