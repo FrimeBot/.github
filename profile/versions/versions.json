@@ -1,10 +1,18 @@
 {
   "latest": {
-    "version": "9.0.0",
+    "version": "9.2.0",
     "timestamp": 1650486101,
     "comment": "Начинается отсчёт версий бота",
     "links": [
       "Отсутствуют"
     ]
-  }
+  },
+  "9.0.0": {
+    "version": "9.0.0",
+    "timestamp": 1650486101,
+    "comment": "Тестовая версия для проверки readme на странице организации на GitHub",
+    "links": [
+      "https:\/\/github.com\/FrimeBot"
+    ]
+  },
 }
