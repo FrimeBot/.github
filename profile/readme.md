@@ -20,8 +20,8 @@
   <span align="center">
     <div>
       <a href="https://discord.gg/tDMR9pP3a">
-        <img src="https://invidget.switchblade.xyz/tDMR9pP3a6">
+        <img src="https://invidget.switchblade.xyz/tDMR9pP3a6", label='Discord'>
       </a>
     </div>
   </span>
-</div> 
+</div>
